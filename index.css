@@ -174,6 +174,9 @@ h4 #disc{
     border-radius: 4px;
     margin: 10px 0;
 }
+.div2 .but:hover{
+    background-color:#27364f ;
+}
 .div2 .but2{
     background-color: white;
     color: #1e293b;
@@ -189,6 +192,9 @@ h4 #disc{
     color: white;
     margin-bottom: 30px;
     font-weight: 700px;
+}
+.div2 #addtobag:hover{
+    background-color:#27364f ;
 }
 .div2 #d2c{
     padding: 20px;
@@ -207,6 +213,9 @@ h4 #disc{
     color: white;
     font-family: sans-serif;
     font-weight: 550;
+}
+.div2 #d2b:hover{
+    background-color:#27364f ;
 }
 
 
